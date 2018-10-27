@@ -1,5 +1,5 @@
 ## django-polls-app
-  This is a basic polls application where users can create questions containing several options, so that other users can vote.
+  This is a basic polls application where users can create questions containing several options, so that other users can vote, obviously.
 ## Steps to setup
   1. Create localenv for django
   2. Activate your localenv
